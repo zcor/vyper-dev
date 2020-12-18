@@ -27,11 +27,6 @@ To learn more about Vyper development, we decided to create a small information 
     <td>https://github.com/ethereum/fe</td>
   </tr>
   <tr>
-    <td>Fe</td>
-    <td>A Rust implementation of Ethereum's Vyper language that is also WASM compliant</td>
-    <td>https://github.com/ethereum/fe</td>
-  </tr>
-  <tr>
     <td>Vyper-Debug</td>
     <td>An Easy to use Vyper debugger | vdb</td>
     <td>https://github.com/status-im/vyper-debug</td>
