@@ -62,15 +62,25 @@ Vyper language tools to work with Vyper
     <td>Vyper Syntax Highlighting for Atom</td>
     <td>https://github.com/vyperlang/atom-vyper</td>
   </tr>
-    <tr>
+  <tr>
     <td>Pyodide</td>
-    <td>The Python scientific stack, compiled to WebAssembly</td>
+    <td>The Python scientific stack, compiled to WebAssembly (WASM)</td>
     <td>https://github.com/vyperlang/pyodide</td>
+  </tr>
+  <tr>
+    <td>Vyper in your Browser (Pyodide)</td>
+    <td>Vyper running straight in your Browser, thanks to pyodide & WASM</td>
+    <td>https://github.com/vyperlang/vyper-in-browser</td>
   </tr>
   <tr>
     <td>FVyper</td>
     <td>A collection of useful Vyper contracts developed with formal methods</td>
     <td>https://github.com/vyperlang/verified-vyper-contracts</td>
+  </tr>
+  <tr>
+    <td>Coq-Vyper</td>
+    <td>A Vyper compiler in Coq (just started)</td>
+    <td>https://github.com/vyperlang/coq-vyper</td>
   </tr>  
 </table>
 
@@ -100,12 +110,5 @@ Projects that use Vyper
 https://github.com/maurelian/erc721-vyper                        
 https://github.com/Safehaven-io/contracts-vyper                  
 https://github.com/embark-framework/embark-vyper-template         
-
-
-https://github.com/vyperlang/vyper-debug                         
+https://github.com/slyg/auction-vyper
 https://github.com/vyperlang/k-vyper                             
-https://github.com/slyg/auction-vyper                            
-https://github.com/vyperlang/vyper-semantics                     
-https://github.com/vyperlang/language-vyper                      
-https://github.com/vyperlang/coq-vyper                           
-https://github.com/vyperlang/vyper-in-browser
