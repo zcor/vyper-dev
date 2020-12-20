@@ -42,15 +42,35 @@ Vyper language tools to work with Vyper
     <td>Ethereum Vyper language support for Visual Studio Code with syntax highlighting</td>
     <td>https://github.com/vyperlang/vscode-vyper</td>
   </tr>
- <tr>
+  <tr>
     <td>VVM</td>
     <td>Vyper version management tool</td>
     <td>https://github.com/vyperlang/vvm</td>
   </tr>
- <tr>
+  <tr>
     <td>Vim Vyper</td>
     <td>Vim/Neovim syntax highlighting for Vyper</td>
     <td>https://github.com/vyperlang/vim-vyper</td>
+  </tr>
+  <tr>
+    <td>Sublime Vyper</td>
+    <td>Vyper Syntax Highlighting for Sublime</td>
+    <td>https://github.com/vyperlang/sublime-vyper</td>
+  </tr>
+  <tr>
+    <td>Atom Vyper</td>
+    <td>Vyper Syntax Highlighting for Atom</td>
+    <td>https://github.com/vyperlang/atom-vyper</td>
+  </tr>
+    <tr>
+    <td>Pyodide</td>
+    <td>The Python scientific stack, compiled to WebAssembly</td>
+    <td>https://github.com/vyperlang/pyodide</td>
+  </tr>
+  <tr>
+    <td>FVyper</td>
+    <td>A collection of useful Vyper contracts developed with formal methods</td>
+    <td>https://github.com/vyperlang/verified-vyper-contracts</td>
   </tr>  
 </table>
 
@@ -76,15 +96,12 @@ Projects that use Vyper
 </table>
 
                            
-https://github.com/vyperlang/pyodide                             
+
 https://github.com/maurelian/erc721-vyper                        
-https://github.com/vyperlang/verified-vyper-contracts            
-https://github.com/vyperlang/sublime-vyper                       
 https://github.com/Safehaven-io/contracts-vyper                  
-https://github.com/vyperlang/vyper-static-linux-build            
-https://github.com/embark-framework/embark-vyper-template        
-https://github.com/computablelabs/vim-vyper                      
-https://github.com/vyperlang/atom-vyper                          
+https://github.com/embark-framework/embark-vyper-template         
+
+
 https://github.com/vyperlang/vyper-debug                         
 https://github.com/vyperlang/k-vyper                             
 https://github.com/slyg/auction-vyper                            
