@@ -8,25 +8,21 @@ To learn more about Vyper development, we decided to create a small information 
 * Taariq Lewis 
 
 
-## Vyper Github Projects
+## Vyper Tools
+Vyper language tools to work with Vyper
 
 <table>
   <tr>
-    <th>Vyper Project Name</th>
-    <th>Project Description</th>
-    <th>Project URL</th>
+    <th>Tool Name</th>
+    <th>Tool Description</th>
+    <th>Tool URL</th>
   </tr>
   <tr>
     <td>Vyper</td>
     <td>Vyper github repository for the Ethereum Vyper language</td>
-    <td>https://github.com/ethereum/vyper</td>
+    <td>https://github.com/vyperlang/vyper</td>
   </tr>
-  <tr>
-    <td>Fe</td>
-    <td>A Rust implementation of Ethereum's Vyper language that is also WASM compliant</td>
-    <td>https://github.com/ethereum/fe</td>
-  </tr>
-  <tr>
+   <tr>
     <td>Fe</td>
     <td>A Rust implementation of Ethereum's Vyper language that is also WASM compliant</td>
     <td>https://github.com/ethereum/fe</td>
@@ -58,17 +54,28 @@ To learn more about Vyper development, we decided to create a small information 
   </tr>  
 </table>
 
+## Vyper Projects
+Projects that use Vyper
 
-https://github.com/NickCuso/VyperPlayground                      
-https://github.com/HardlyDifficult/hardlydifficult-ethereum-vyper
-https://github.com/Fairmint/c-org-vyper                          
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Project Description</th>
+    <th>Project URL</th>
+  </tr>
+  <tr>
+    <td>Uniswap Vyper implementation</td>
+    <td>Uniswap contracts implemented in Vyper</td>
+    <td>https://github.com/Uniswap/uniswap-v1</td>
+  </tr>
+   <tr>
+    <td>Vyper Plasma MVP</td>
+    <td>Possibly the first implementation of Plasma in Vyper</td>
+    <td>https://github.com/LayerXcom/plasma-mvp-vyper</td>
+  </tr>
+</table>
 
- 
                            
-https://github.com/Uniswap/contracts-vyper                       
-https://github.com/CyberMiles/contracts-vyper                    
-https://github.com/LayerXcom/plasma-mvp-vyper                    
-https://github.com/vyperlang/vyper                               
 https://github.com/vyperlang/pyodide                             
 https://github.com/maurelian/erc721-vyper                        
 https://github.com/vyperlang/verified-vyper-contracts            
