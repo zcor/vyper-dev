@@ -98,7 +98,32 @@ Projects that use Vyper
     <td>Uniswap contracts implemented in Vyper</td>
     <td>https://github.com/Uniswap/uniswap-v1</td>
   </tr>
-   <tr>
+  <tr>
+    <td>Vyper Plasma MVP</td>
+    <td>Possibly the first implementation of Plasma in Vyper</td>
+    <td>https://github.com/LayerXcom/plasma-mvp-vyper</td>
+  </tr>
+  <tr>
+    <td>ERC-721 Vyper exercise</td>
+    <td>ERC-721 Vyper exercise</td>
+    <td>https://github.com/maurelian/erc721-vyper</td>
+  </tr>
+  <tr>
+    <td>Embark Vyper Template</td>
+    <td>Vyper template for the Embark DApp dev system</td>
+    <td>https://github.com/embark-framework/embark-vyper-templat<td>
+  </tr>
+  <tr>
+    <td>Vyper Auction example</td>
+    <td>Auction exercise completed in Vyper</td>
+    <td>https://github.com/slyg/auction-vyper</td>
+  </tr>
+  <tr>
+    <td>Vyper Plasma MVP</td>
+    <td>Possibly the first implementation of Plasma in Vyper</td>
+    <td>https://github.com/LayerXcom/plasma-mvp-vyper</td>
+  </tr>
+  <tr>
     <td>Vyper Plasma MVP</td>
     <td>Possibly the first implementation of Plasma in Vyper</td>
     <td>https://github.com/LayerXcom/plasma-mvp-vyper</td>
@@ -107,8 +132,5 @@ Projects that use Vyper
 
                            
 
-https://github.com/maurelian/erc721-vyper                        
-https://github.com/Safehaven-io/contracts-vyper                  
-https://github.com/embark-framework/embark-vyper-template         
 https://github.com/slyg/auction-vyper
 https://github.com/vyperlang/k-vyper                             
