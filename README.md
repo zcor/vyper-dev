@@ -114,18 +114,8 @@ Projects that use Vyper
     <td>https://github.com/slyg/auction-vyper</td>
   </tr>
   <tr>
-    <td>Vyper Plasma MVP</td>
-    <td>Possibly the first implementation of Plasma in Vyper</td>
-    <td>https://github.com/LayerXcom/plasma-mvp-vyper</td>
-  </tr>
-  <tr>
-    <td>Vyper Plasma MVP</td>
-    <td>Possibly the first implementation of Plasma in Vyper</td>
-    <td>https://github.com/LayerXcom/plasma-mvp-vyper</td>
+    <td>K Vyper</td>
+    <td>Semantics of Vyper in K</td>
+    <td>https://github.com/vyperlang/k-vyper</td>
   </tr>
 </table>
-
-                           
-
-https://github.com/slyg/auction-vyper
-https://github.com/vyperlang/k-vyper                             
