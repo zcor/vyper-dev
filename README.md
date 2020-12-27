@@ -111,7 +111,7 @@ Projects that use Vyper
   <tr>
     <td>Embark Vyper Template</td>
     <td>Vyper template for the Embark DApp dev system</td>
-    <td>https://github.com/embark-framework/embark-vyper-templat<td>
+    <td>https://github.com/embark-framework/embark-vyper-templat</td>
   </tr>
   <tr>
     <td>Vyper Auction example</td>
