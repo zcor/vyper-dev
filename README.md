@@ -124,3 +124,25 @@ Projects that use Vyper
     <td>https://github.com/vyperlang/k-vyper</td>
   </tr>
 </table>
+
+
+## Deployed Vyper Projects
+Deployed Vyper Ethereum Contracts
+
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Contract Name</th>
+    <th>Contract Address</th>
+  </tr>
+  <tr>
+    <td>Curve</td>
+    <td>3 Pool StableSwap3Pool</td>
+    <td>[0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C7](https://etherscan.io/address/0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7)</td>
+  </tr>
+  <tr>
+    <td>Curve</td>
+    <td>Y Pool StableSwapUSDT</td>
+    <td>[0x45F783CCE6B7FF23B2ab2D70e416cdb7D6055f51](https://etherscan.io/address/0x45F783CCE6B7FF23B2ab2D70e416cdb7D6055f51)</td>
+  </tr>
+</table>
