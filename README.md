@@ -89,6 +89,11 @@ Projects that use Vyper
     <th>Project URL</th>
   </tr>
   <tr>
+    <td>CUrve</td>
+    <td>Stablecoin AMM and liquidity pools written in Vyper</td>
+    <td>https://github.com/curvefi/curve-contract</td>
+  </tr>
+  <tr>
     <td>Uniswap Vyper implementation</td>
     <td>Uniswap contracts implemented in Vyper</td>
     <td>https://github.com/Uniswap/uniswap-v1</td>
