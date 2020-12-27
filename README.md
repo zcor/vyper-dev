@@ -89,7 +89,7 @@ Projects that use Vyper
     <th>Project URL</th>
   </tr>
   <tr>
-    <td>CUrve</td>
+    <td>Curve</td>
     <td>Stablecoin AMM and liquidity pools written in Vyper</td>
     <td>https://github.com/curvefi/curve-contract</td>
   </tr>
