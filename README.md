@@ -89,6 +89,11 @@ Projects that use Vyper
     <th>Project URL</th>
   </tr>
   <tr>
+    <td>Curve</td>
+    <td>Stablecoin AMM and liquidity pools written in Vyper</td>
+    <td>https://github.com/curvefi/curve-contract</td>
+  </tr>
+  <tr>
     <td>Uniswap Vyper implementation</td>
     <td>Uniswap contracts implemented in Vyper</td>
     <td>https://github.com/Uniswap/uniswap-v1</td>
@@ -106,7 +111,7 @@ Projects that use Vyper
   <tr>
     <td>Embark Vyper Template</td>
     <td>Vyper template for the Embark DApp dev system</td>
-    <td>https://github.com/embark-framework/embark-vyper-templat<td>
+    <td>https://github.com/embark-framework/embark-vyper-templat</td>
   </tr>
   <tr>
     <td>Vyper Auction example</td>
@@ -119,3 +124,12 @@ Projects that use Vyper
     <td>https://github.com/vyperlang/k-vyper</td>
   </tr>
 </table>
+
+
+## Deployed Vyper Projects
+Deployed Vyper Ethereum Contracts
+
+ |Project Name | Contract Name | Contract Address |
+ | --- | --- | --- |
+ | Curve | 3 Pool StableSwap3Pool | [0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C7](https://etherscan.io/address/0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7)|
+  | Curve | Y Pool StableSwapUSDT |[0x45F783CCE6B7FF23B2ab2D70e416cdb7D6055f51](https://etherscan.io/address/0x45F783CCE6B7FF23B2ab2D70e416cdb7D6055f51)|
