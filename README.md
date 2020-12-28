@@ -133,3 +133,90 @@ Deployed Vyper Ethereum Contracts
  | --- | --- | --- |
  | Curve | 3 Pool StableSwap3Pool | [0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C7](https://etherscan.io/address/0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7)|
   | Curve | Y Pool StableSwapUSDT |[0x45F783CCE6B7FF23B2ab2D70e416cdb7D6055f51](https://etherscan.io/address/0x45F783CCE6B7FF23B2ab2D70e416cdb7D6055f51)|
+  
+  
+## Vyper Tutorials
+<table>
+  <tr>
+    <th>Tutorial Name</th>
+    <th>Description</th>
+    <th>URL</th>
+  </tr>
+  <tr>
+    <td>
+      Vyper.Fun
+    </td>
+    <td>
+      Learn Vyper by building a Pokemon Game
+    </td>
+    <td>
+        https://vyper.fun/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Vyper by Example
+    </td>
+    <td>
+      Simple Open Auction
+    </td>
+    <td>
+        https://vyper.readthedocs.io/en/stable/vyper-by-example.html
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Beginners Guide 
+    </td>
+    <td>
+      Beginners Guide to the Vyper Smart Contract Language
+    </td>
+    <td>
+        https://vyper.fun/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Beginners Guide 
+    </td>
+    <td>
+      Beginners Guide to the Vyper Smart Contract Language
+    </td>
+    <td>
+        https://vyper.fun/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Coinbureau Beginners Guide 
+    </td>
+    <td>
+      Beginners Guide to the Vyper Smart Contract Language
+    </td>
+    <td>
+        https://www.coinbureau.com/smart-contracts/beginners-guide-vyper-language/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Rewrite Solidity Smart Contracts in Vyper 
+    </td>
+    <td>
+      Video rewriting 4 Solidity smart contracts into Vyper. 
+    </td>
+    <td>
+        https://www.youtube.com/watch?v=NwSIaNhRHFQ
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Dapp University 
+    </td>
+    <td>
+      Vyper Programming Tutorial for Ethereum Smart Contract Development (Blockchain) 
+    </td>
+    <td>
+        https://www.youtube.com/watch?v=-RHTgegox8I
+    </td>
+  </tr>  
+</table>
