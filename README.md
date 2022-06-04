@@ -3,9 +3,105 @@
 ## Mission
 To learn more about Vyper development, we decided to create a small information hub on the language in this repo. We hope this will prove useful to those exploring working in both Solidity and Vyper.
 
-## Authors
-* Gerrit Hall
-* Taariq Lewis 
+## Vyper Tutorials
+<table>
+  <tr>
+    <th>Tutorial Name</th>
+    <th>Description</th>
+    <th>URL</th>
+  </tr>
+  <tr>
+    <td>
+      ApeWorx Academy
+    </td>
+    <td>
+      Ape Academy is a project-based learning platform for building in Web3 using Ape Framework. The platform consists of high-quality videos and in-depth articles on using Ape Framework for smart contract development.
+    </td>
+    <td>
+        https://academy.apeworx.io/
+    </td>
+  </tr>
+    <tr>
+    <td>
+      BowTiedDevil Introduction
+    </td>
+    <td>
+      Vyper for Beginners by the BowTiedForest
+    </td>
+    <td>
+        https://bowtiedisland.com/vyper-for-beginners-introduction/
+    </td>
+  </tr>
+    <tr>
+    <td>
+      Vyper Examples
+    </td>
+    <td>
+      An introduction to Vyper with simple examples
+    </td>
+    <td>
+        https://www.vyperexamples.com/ 
+        https://github.com/Jam516/VyperExamples/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Vyper Documentation
+    </td>
+    <td>
+      Simple Open Auction
+    </td>
+    <td>
+        https://vyper.readthedocs.io/en/stable/vyper-by-example.html
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Vyper Repository
+    </td>
+    <td>
+      Multiple Examples Within Vyper Repository 
+    </td>
+    <td>
+        https://github.com/vyperlang/vyper/tree/master/examples
+    </td>
+  </tr>  
+  <tr>
+    <td>
+      Coinbureau Beginners Guide 
+    </td>
+    <td>
+      Beginners Guide to the Vyper Smart Contract Language
+    </td>
+    <td>
+        https://www.coinbureau.com/smart-contracts/beginners-guide-vyper-language/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Rewrite Solidity Smart Contracts in Vyper 
+    </td>
+    <td>
+      Video rewriting 4 Solidity smart contracts into Vyper. 
+    </td>
+    <td>
+        https://www.youtube.com/watch?v=NwSIaNhRHFQ
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Dapp University 
+    </td>
+    <td>
+      Vyper Programming Tutorial for Ethereum Smart Contract Development (Blockchain) 
+    </td>
+    <td>
+        https://www.youtube.com/watch?v=-RHTgegox8I
+    </td>
+  </tr>  
+</table>
+
+
 
 
 ## Vyper Tools
@@ -135,89 +231,9 @@ Deployed Vyper Ethereum Contracts
   | Curve | Y Pool StableSwapUSDT |[0x45F783CCE6B7FF23B2ab2D70e416cdb7D6055f51](https://etherscan.io/address/0x45F783CCE6B7FF23B2ab2D70e416cdb7D6055f51)|
   
   
-## Vyper Tutorials
-<table>
-  <tr>
-    <th>Tutorial Name</th>
-    <th>Description</th>
-    <th>URL</th>
-  </tr>
-  <tr>
-    <td>
-      ApeWorx Academy
-    </td>
-    <td>
-      Ape Academy is a project-based learning platform for building in Web3 using Ape Framework. The platform consists of high-quality videos and in-depth articles on using Ape Framework for smart contract development.
-    </td>
-    <td>
-        https://academy.apeworx.io/
-    </td>
-  </tr>
-    <tr>
-    <td>
-      Vyper Examples
-    </td>
-    <td>
-      An introduction to Vyper with simple examples
-    </td>
-    <td>
-        https://www.vyperexamples.com/ 
-        https://github.com/Jam516/VyperExamples/
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Vyper Documentation
-    </td>
-    <td>
-      Simple Open Auction
-    </td>
-    <td>
-        https://vyper.readthedocs.io/en/stable/vyper-by-example.html
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Vyper Repository
-    </td>
-    <td>
-      Multiple Examples Within Vyper Repository 
-    </td>
-    <td>
-        https://github.com/vyperlang/vyper/tree/master/examples
-    </td>
-  </tr>  
-  <tr>
-    <td>
-      Coinbureau Beginners Guide 
-    </td>
-    <td>
-      Beginners Guide to the Vyper Smart Contract Language
-    </td>
-    <td>
-        https://www.coinbureau.com/smart-contracts/beginners-guide-vyper-language/
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Rewrite Solidity Smart Contracts in Vyper 
-    </td>
-    <td>
-      Video rewriting 4 Solidity smart contracts into Vyper. 
-    </td>
-    <td>
-        https://www.youtube.com/watch?v=NwSIaNhRHFQ
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Dapp University 
-    </td>
-    <td>
-      Vyper Programming Tutorial for Ethereum Smart Contract Development (Blockchain) 
-    </td>
-    <td>
-        https://www.youtube.com/watch?v=-RHTgegox8I
-    </td>
-  </tr>  
-</table>
+
+## Authors
+* Gerrit Hall
+* Taariq Lewis 
+
+
