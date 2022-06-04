@@ -144,18 +144,30 @@ Deployed Vyper Ethereum Contracts
   </tr>
   <tr>
     <td>
-      Vyper.Fun
+      ApeWorx Academy
     </td>
     <td>
-      Learn Vyper by building a Pokemon Game
+      Ape Academy is a project-based learning platform for building in Web3 using Ape Framework. The platform consists of high-quality videos and in-depth articles on using Ape Framework for smart contract development.
     </td>
     <td>
-        https://vyper.fun/
+        https://academy.apeworx.io/
+    </td>
+  </tr>
+    <tr>
+    <td>
+      Vyper Examples
+    </td>
+    <td>
+      An introduction to Vyper with simple examples
+    </td>
+    <td>
+        https://www.vyperexamples.com/ 
+        https://github.com/Jam516/VyperExamples/
     </td>
   </tr>
   <tr>
     <td>
-      Vyper by Example
+      Vyper Documentation
     </td>
     <td>
       Simple Open Auction
@@ -166,26 +178,15 @@ Deployed Vyper Ethereum Contracts
   </tr>
   <tr>
     <td>
-      Beginners Guide 
+      Vyper Repository
     </td>
     <td>
-      Beginners Guide to the Vyper Smart Contract Language
+      Multiple Examples Within Vyper Repository 
     </td>
     <td>
-        https://vyper.fun/
+        https://github.com/vyperlang/vyper/tree/master/examples
     </td>
-  </tr>
-  <tr>
-    <td>
-      Beginners Guide 
-    </td>
-    <td>
-      Beginners Guide to the Vyper Smart Contract Language
-    </td>
-    <td>
-        https://vyper.fun/
-    </td>
-  </tr>
+  </tr>  
   <tr>
     <td>
       Coinbureau Beginners Guide 
