@@ -173,6 +173,11 @@ Vyper language tools to work with Vyper
     <td>A Vyper compiler in Coq (just started)</td>
     <td>https://github.com/vyperlang/coq-vyper</td>
   </tr>  
+  <tr>
+    <td>Coq-Vyper</td>
+    <td>Foundry Vyper</td>
+    <td>https://github.com/0xKitsune/Foundry-Vyper</td>
+  </tr>  
 </table>
 
 ## Vyper Projects
