@@ -174,8 +174,8 @@ Vyper language tools to work with Vyper
     <td>https://github.com/vyperlang/coq-vyper</td>
   </tr>  
   <tr>
-    <td>Coq-Vyper</td>
     <td>Foundry Vyper</td>
+    <td>A Foundry template to compile and test Vyper contracts.</td>
     <td>https://github.com/0xKitsune/Foundry-Vyper</td>
   </tr>  
 </table>
